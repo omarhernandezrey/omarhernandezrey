@@ -7,7 +7,7 @@
 
 ## 🏆 PROYECTO DESTACADO
 
-### [![🌐 PORTAFOLIO INTERACTIVO](https://img.shields.io/badge/🌐_EXPLORA_MI_PORTAFOLIO_INTERACTIVO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4ECDC4)](https://omarh-portafolio-web.vercel.app/)<img width="1505" height="787" alt="seo" src="https://github.com/user-attachments/assets/cbeb7a00-bcab-415e-9080-f3bcfeed0909" />
+### [![🌐 PORTAFOLIO INTERACTIVO](https://img.shields.io/badge/🌐_EXPLORA_MI_PORTAFOLIO_INTERACTIVO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4ECDC4)](https://omarh-portafolio-web.vercel.app/)
 
 
 **¡Explora mi portafolio interactivo!**
