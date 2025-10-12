@@ -5,15 +5,24 @@
 
 ---
 
+## 🏆 PROYECTO DESTACADO
+
+### [![🌐 PORTAFOLIO INTERACTIVO](https://img.shields.io/badge/🌐_EXPLORA_MI_PORTAFOLIO_INTERACTIVO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4ECDC4)](https://omarh-portafolio-web.vercel.app/)
+
+**¡Explora mi portafolio interactivo!**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+---
+
 ## ⚡ Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🎯 Proyectos
+## 🎯 Otros Proyectos
 
-🌐 **[Portafolio Web](https://omarh-portafolio-web.vercel.app/)** → React + Vite + Tailwind  
 🎨 **Portafolio Moderno** → React + Vite + Tailwind  
 ⚛️ **React Patterns** → React + Advanced Patterns  
 🦸 **Marvel API** → React + Vite + API Integration  
