@@ -3,19 +3,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🌊 ANIMATED HEADER WAVE -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:7C3AED&height=220&section=header&text=Omar%20Hernández%20Rey&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Colombia%20🇨🇴&descSize=18&descAlignY=55&descAlign=50"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ⌨️ TYPING SVG ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=Building+scalable+web+applications+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Django+%F0%9F%92%BB;Clean+Code+%E2%9C%A8+%7C+Best+Practices+%F0%9F%8E%AF+%7C+Results+Driven+%F0%9F%94%A5)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:7C3AED&height=220&section=header&text=Omar%20Hern%C3%A1ndez%20Rey&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🔗 SOCIAL BADGES -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <a href="https://omarh-portafolio-web.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portafolio-0A84FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>&nbsp;
@@ -60,53 +52,51 @@ fun_fact: "I automate everything I can — even my README updates."
 ```
 
 - 🔭 &nbsp;Currently working on **interactive educational platforms**
-- 🌱 &nbsp;Learning **Software Architecture**, **Mobile Development** & **SOA Patterns**
-- 🏗️ &nbsp;Building with **React**, **Next.js**, **Node.js**, **Django**
-- ⚡ &nbsp;Passionate about **clean code**, **design patterns** & **developer experience**
-- 🎯 &nbsp;2026 Goals: **Contribute to Open Source** & **Launch SaaS projects**
+- 🌱 &nbsp;Learning **Software Architecture, Mobile Development & SOA Patterns**
+- 🏗️ &nbsp;Building with **React, Next.js, Node.js, Django**
+- ⚡ &nbsp;Passionate about **clean code, design patterns & developer experience**
+- 🎯 &nbsp;2026 Goals: **Contribute to Open Source & Launch SaaS projects**
 
 <br clear="both"/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ TECH STACK — SKILL ICONS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 🛠️ &nbsp;Tech Arsenal
 
 <br/>
 
-### 🎨 Frontend
+**🎨 Frontend**
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,js,ts,tailwind,bootstrap,sass&perline=10" alt="Frontend Skills"/>
 </a>
 
-### ⚙️ Backend
+**⚙️ Backend**
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,php&perline=10" alt="Backend Skills"/>
 </a>
 
-### 🗄️ Databases
+**🗄️ Databases**
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase&perline=10" alt="Database Skills"/>
 </a>
 
-### 🚀 DevOps & Tools
+**🚀 DevOps & Tools**
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,androidstudio,figma,postman,vercel,bash&perline=10" alt="DevOps & Tools Skills"/>
 </a>
 
 </div>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS DASHBOARD -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 📊 &nbsp;GitHub Analytics
@@ -136,12 +126,9 @@ fun_fact: "I automate everything I can — even my README updates."
 
 </div>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 GITHUB TROPHIES -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 🏆 &nbsp;GitHub Trophies
@@ -154,12 +141,9 @@ fun_fact: "I automate everything I can — even my README updates."
 
 </div>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 📂 FEATURED PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## ⭐ &nbsp;Featured Projects
@@ -170,21 +154,11 @@ fun_fact: "I automate everything I can — even my README updates."
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarhernandezrey&repo=portafolio_web&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=0A84FF&title_color=0A84FF&text_color=C9D1D9" alt="Portfolio Project"/>
 </a>
 
-<!-- Add more pinned repos below as needed -->
-<!-- 
-<a href="https://github.com/omarhernandezrey/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarhernandezrey&repo=REPO_NAME&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=0A84FF&title_color=0A84FF&text_color=C9D1D9" alt="Project"/>
-</a>
--->
-
 </div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🐍 SNAKE CONTRIBUTION ANIMATION -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
@@ -199,52 +173,9 @@ fun_fact: "I automate everything I can — even my README updates."
 
 </div>
 
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║  🐍 TO ENABLE THE SNAKE ANIMATION:                                  ║
-║                                                                      ║
-║  1. Create the file:                                                 ║
-║     .github/workflows/snake.yml                                      ║
-║     in your profile repo (omarhernandezrey/omarhernandezrey)         ║
-║                                                                      ║
-║  2. Paste this content:                                              ║
-║                                                                      ║
-║  name: Generate Snake                                                ║
-║  on:                                                                 ║
-║    schedule:                                                         ║
-║      - cron: "0 */6 * * *"                                          ║
-║    workflow_dispatch:                                                ║
-║                                                                      ║
-║  jobs:                                                               ║
-║    build:                                                            ║
-║      runs-on: ubuntu-latest                                          ║
-║      steps:                                                          ║
-║        - uses: Platane/snk@v3                                        ║
-║          with:                                                       ║
-║            github_user_name: omarhernandezrey                        ║
-║            outputs: |                                                ║
-║              dist/github-contribution-grid-snake.svg                 ║
-║              dist/github-contribution-grid-snake-dark.svg            ║
-║                ?palette=github-dark                                  ║
-║        - uses: crazy-max/ghaction-github-pages@v3.1.0                ║
-║          with:                                                       ║
-║            target_branch: output                                     ║
-║            build_dir: dist                                           ║
-║          env:                                                        ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}                 ║
-║                                                                      ║
-║  3. Go to repo Settings > Actions > General                          ║
-║     → Set "Workflow permissions" to "Read and write"                  ║
-║  4. Run the workflow manually the first time                          ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 📋 SUMMARY CARDS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 📋 &nbsp;Profile Summary
@@ -265,12 +196,9 @@ fun_fact: "I automate everything I can — even my README updates."
 
 </div>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 💼 EXPERIENCE & WORKFLOW -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 💼 &nbsp;How I Work
@@ -307,12 +235,9 @@ mindmap
       SOLID Principles
 ```
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🎵 SPOTIFY / RANDOM DEV QUOTE -->
+<!-- 🎵 RANDOM DEV QUOTE -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 💭 &nbsp;Random Dev Quote
@@ -325,12 +250,9 @@ mindmap
 
 </div>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🤝 LET'S CONNECT -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 🤝 &nbsp;Let's Connect
@@ -352,11 +274,11 @@ mindmap
 
 <br/><br/>
 
-### 💡 Open to collaborations on innovative projects!
+💡 **Open to collaborations on innovative projects!**
 
 <br/>
 
-> _"First, solve the problem. Then, write the code."_ — **John Johnson**
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
@@ -367,7 +289,6 @@ mindmap
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 💖 MADE WITH LOVE -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <sub>⚡ Crafted with passion by <a href="https://github.com/omarhernandezrey">Omar Hernández Rey</a> — <i>Build. Break. Learn. Ship. Repeat.</i> ⚡</sub>
 </div>
