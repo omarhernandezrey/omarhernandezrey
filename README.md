@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🎬 ANIMATED PARTICLE HEADER                                        -->
-<!-- Sube profile.gif a tu repo omarhernandezrey/omarhernandezrey       -->
+<!-- 🎬 ANIMATED PARTICLE HEADER — SVG (sube profile-animation.svg     -->
+<!-- a la raíz del repo omarhernandezrey/omarhernandezrey)             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <a href="https://omarh-portafolio-web.vercel.app/" target="_blank">
-  <img width="100%" src="https://raw.githubusercontent.com/omarhernandezrey/omarhernandezrey/master/profile.gif" alt="Omar Hernández Rey — Full Stack Developer"/>
+  <img width="100%" src="https://raw.githubusercontent.com/omarhernandezrey/omarhernandezrey/master/profile-animation.svg" alt="Omar Hernández Rey — Full Stack Developer"/>
 </a>
 
 <br/><br/>
