@@ -1,9 +1,14 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 ANIMATED HEADER WAVE -->
+<!-- 🎬 ANIMATED PARTICLE HEADER                                        -->
+<!-- Sube profile.gif a tu repo omarhernandezrey/omarhernandezrey       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:7C3AED&height=220&section=header&text=Omar%20Hern%C3%A1ndez%20Rey&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=18&descAlignY=55&descAlign=50"/>
+<a href="https://omarh-portafolio-web.vercel.app/" target="_blank">
+  <img width="100%" src="https://raw.githubusercontent.com/omarhernandezrey/omarhernandezrey/master/profile.gif" alt="Omar Hernández Rey — Full Stack Developer"/>
+</a>
+
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🔗 SOCIAL BADGES -->
@@ -21,7 +26,7 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=omarhernandezrey&style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -140,7 +145,6 @@ fun_fact: "I automate everything I can — even my README updates."
 
 <br/>
 
-<!-- Stats Card + Languages Card side by side -->
 <a href="https://github.com/omarhernandezrey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarhernandezrey&show_icons=true&theme=github_dark&bg_color=0D1117&hide_border=true&icon_color=0A84FF&title_color=0A84FF&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" alt="Omar's GitHub Stats"/>
   &nbsp;
@@ -149,14 +153,12 @@ fun_fact: "I automate everything I can — even my README updates."
 
 <br/><br/>
 
-<!-- Streak Stats -->
 <a href="https://github.com/omarhernandezrey">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarhernandezrey&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0A84FF&ring=7C3AED&fire=FF6B35&currStreakLabel=0A84FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <a href="https://github.com/omarhernandezrey">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omarhernandezrey&bg_color=0D1117&color=0A84FF&line=7C3AED&point=FF6B35&area=true&area_color=0A84FF&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Contribution Graph"/>
 </a>
