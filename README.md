@@ -1,23 +1,17 @@
-<!-- 
-  ═══════════════════════════════════════════════════════════════════════════
-  PERFIL CUÁNTICO • OMAR HERNÁNDEZ REY • v3.0 (LIQUID NEON + GLASS)
-  ═══════════════════════════════════════════════════════════════════════════
--->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     HEADER ANIMADO (WAVE CUÁNTICO)                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://omarhernandezrey.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,12&height=300&section=header&text=Omar%20Hern%C3%A1ndez%20Rey&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20•%20Freelance&descAlignY=52&descSize=22&animation=fadeIn&stroke=7C3AED&strokeWidth=1"/>
-      <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,12&height=300&section=header&text=Omar%20Hern%C3%A1ndez%20Rey&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20•%20Freelance&descAlignY=52&descSize=22&animation=fadeIn"/>
-    </picture>
-  </a>
-</p>
+<a href="https://omarhernandezrey.com">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,12&height=300&section=header&text=Omar%20Hern%C3%A1ndez%20Rey&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20Freelance&descAlignY=52&descSize=22&animation=fadeIn&stroke=7C3AED&strokeWidth=1"
+    alt="header"
+  />
+</a>
 
-<!-- 
-  ═══════════════════════════════════════════════════════════════════════════
-  TYPING TERMINAL HOLOGRÁFICO
-  ═══════════════════════════════════════════════════════════════════════════ 
--->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMADO (TERMINAL HOLOGRÁFICA)                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -27,11 +21,9 @@
 
 <br/>
 
-<!-- 
-  ═══════════════════════════════════════════════════════════════════════════
-  BADGES HOLOGRÁFICOS CON GLASSMORPHISM (CSS PURO)
-  ═══════════════════════════════════════════════════════════════════════════ 
--->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     BADGES SOCIALES (GLASSMORPHISM)                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -39,44 +31,55 @@
 |:---:|:---:|:---:|:---:|
 | ![Proyectos](https://img.shields.io/badge/25%2B_Proyectos_Entregados-0B0F19?style=for-the-badge&logo=checkmarx&logoColor=22C55E&labelColor=0B0F19&color=0B0F19) | ![Stack](https://img.shields.io/badge/Type--Safe_Full_Stack-0B0F19?style=for-the-badge&logo=typescript&logoColor=06B6D4&labelColor=0B0F19&color=0B0F19) | ![Experiencia](https://img.shields.io/badge/5%2B_A%C3%B1os_Creando_Web-0B0F19?style=for-the-badge&logo=clockify&logoColor=7C3AED&labelColor=0B0F19&color=0B0F19) | ![Remoto](https://img.shields.io/badge/Remoto_LATAM_%26_USA-0B0F19?style=for-the-badge&logo=googlemaps&logoColor=06B6D4&labelColor=0B0F19&color=0B0F19) |
 
+<br/>
+
+<a href="https://omarhernandezrey.com">
+  <img src="https://img.shields.io/badge/Portafolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+</a>
+<a href="https://linkedin.com/in/omar-hernandez-rey">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://omarhernandezrey.com/blog">
+  <img src="https://img.shields.io/badge/Blog-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+</a>
+<a href="https://github.com/omarhernandezrey">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://x.com/omarhrey">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=omarhernandezrey&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS&labelColor=0B0F19" alt="profile views"/>
+<img src="https://img.shields.io/badge/Bogot%C3%A1-Colombia-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B0F19" alt="location"/>
+<img src="https://img.shields.io/badge/Disponible-Freelance-22C55E?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0B0F19" alt="available"/>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://omarhernandezrey.com"><img src="https://img.shields.io/badge/Portafolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0F19"/></a>
-  <a href="https://linkedin.com/in/omar-hernandez-rey"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19"/></a>
-  <a href="https://github.com/omarhernandezrey"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19"/></a>
-  <a href="https://x.com/omarhrey"><img src="https://img.shields.io/badge/X_(Twitter)-0B0F19?style=for-the-badge&logo=x&logoColor=white&labelColor=0B0F19"/></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=omarhernandezrey&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS&labelColor=0B0F19" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Disponible-Freelance-22C55E?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0B0F19" alt="available"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     SOBRE MÍ (CÓDIGO CUÁNTICO + TERMINAL)                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<br/>
-
-<!-- 
-  ═══════════════════════════════════════════════════════════════════════════
-  SOBRE MÍ (GLASS CARD + CÓDIGO CUÁNTICO)
-  ═══════════════════════════════════════════════════════════════════════════ 
--->
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td width="60%" valign="top">
 
+### 👨‍💻 &nbsp;Sobre mí
+
 ```ts
 // ⚡ QUANTUM DEV PROFILE v3.0
-export const omar = {
+const omar: Developer = {
   rol:        "Full Stack Web Developer",
-  ubicacion:  "Bogotá, Colombia 🌎",
-  cobertura:  "Remoto LATAM & USA",
+  ubicacion:  "Bogotá, Colombia 🌎 Remoto LATAM & USA",
   
   stack: {
     frontend:   ["React", "Next.js", "Vue 3", "Angular", "TypeScript"],
-    backend:    ["Node.js", "NestJS", "REST", "GraphQL"],
-    data:       ["PostgreSQL", "MongoDB", "Prisma"],
-    devops:     ["Docker", "AWS", "CI/CD"],
+    backend:    ["Node.js", "NestJS", "REST", "GraphQL", "PostgreSQL"],
+    data:       ["MongoDB", "Prisma", "Redis"],
+    devops:     ["Docker", "AWS", "CI/CD", "Linux"],
   },
   
   principios: {
