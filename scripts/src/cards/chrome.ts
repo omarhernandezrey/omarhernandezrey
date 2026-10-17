@@ -18,7 +18,8 @@ export const SECTIONS: readonly DividerSpec[] = [
   { id: 'stack', index: '02', title: 'STACK', caption: '// módulos cargados' },
   { id: 'proyectos', index: '03', title: 'PROYECTOS', caption: '// despliegues' },
   { id: 'trayectoria', index: '04', title: 'TRAYECTORIA', caption: '// log 2022 — hoy' },
-  { id: 'actividad', index: '05', title: 'ACTIVIDAD', caption: '// telemetría en vivo' },
+  { id: 'educacion', index: '05', title: 'EDUCACIÓN', caption: '// credenciales verificadas' },
+  { id: 'actividad', index: '06', title: 'ACTIVIDAD', caption: '// telemetría en vivo' },
 ];
 
 export function renderDivider(t: Theme, s: DividerSpec): string {

@@ -145,3 +145,13 @@ export function arrowUpRight(x: number, y: number, size: number, stroke: string)
 export function gridPattern(id: string, size: number, stroke: string, opacity: number): string {
   return `<pattern id="${id}" width="${size}" height="${size}" patternUnits="userSpaceOnUse"><path d="M${size} 0H0V${size}" stroke="${stroke}" stroke-width="1" opacity="${opacity}"/></pattern>`;
 }
+
+/** Imagen raster local como data URI (los SVG en <img> no cargan URLs externas). */
+export function dataUri(file: string, mime: 'image/jpeg' | 'image/png'): string {
+  return `data:${mime};base64,${readFileSync(file).toString('base64')}`;
+}
+
+/** Marca de verificación dibujada. */
+export function checkMark(x: number, y: number, size: number, stroke: string, width = 1.8): string {
+  return `<path d="M${n(x)} ${n(y + size * 0.55)}L${n(x + size * 0.38)} ${n(y + size * 0.9)}L${n(x + size)} ${n(y + size * 0.1)}" stroke="${stroke}" stroke-width="${width}" stroke-linecap="round" stroke-linejoin="round"/>`;
+}

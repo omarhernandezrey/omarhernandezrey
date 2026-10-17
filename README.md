@@ -45,7 +45,23 @@ Construyo aplicaciones web **rápidas, seguras y listas para producción** con R
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/divider-actividad-dark.svg"><img src="./assets/generated/divider-actividad-light.svg" width="100%" alt="05 · ACTIVIDAD"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/divider-educacion-dark.svg"><img src="./assets/generated/divider-educacion-light.svg" width="100%" alt="05 · EDUCACIÓN"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/education-dark.svg"><img src="./assets/generated/education-light.svg" width="100%" alt="Educación: Ingeniería de Software (Politécnico Grancolombiano), Tecnólogo ADSI (SENA) y Bootcamp Full Stack (Talento Tech)"></picture>
+
+<p align="center">
+<a href="./assets/certificates/sena-tecnologo-adsi.jpg"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/cert-1-dark.svg"><img src="./assets/generated/cert-1-light.svg" width="32%" alt="SENA: Tecnólogo en Análisis y Desarrollo de Sistemas de Información (Título profesional · nov 2022)"></picture></a> <a href="./assets/certificates/talento-tech-full-stack.jpg"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/cert-2-dark.svg"><img src="./assets/generated/cert-2-light.svg" width="32%" alt="TALENTO TECH · MINTIC: Bootcamp Desarrollo Web Full Stack (159 horas · ago 2024)"></picture></a> <a href="./assets/certificates/itcertificate-full-stack.jpg"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/cert-3-dark.svg"><img src="./assets/generated/cert-3-light.svg" width="32%" alt="ITCERTIFICATE: Full Stack Developer Certified Specialist (Certificación · oct 2024)"></picture></a>
+</p>
+
+<p align="center">
+<a href="./assets/certificates/itcertificate-back-end.jpg"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/cert-4-dark.svg"><img src="./assets/generated/cert-4-light.svg" width="32%" alt="ITCERTIFICATE: Back End Developer Certified Professional (Certificación · oct 2024)"></picture></a> <a href="./assets/certificates/ibm-git-github.jpg"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/cert-5-dark.svg"><img src="./assets/generated/cert-5-light.svg" width="32%" alt="IBM SKILLSBUILD: Fundamentos de Git y GitHub (5 horas · oct 2026)"></picture></a> <a href="./assets/certificates/platzi-react.jpg"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/cert-6-dark.svg"><img src="./assets/generated/cert-6-light.svg" width="32%" alt="PLATZI: Curso de React.js (25 horas · nov 2023)"></picture></a>
+</p>
+
+<p align="center"><sub>Haz clic en cualquier certificado para verlo completo.</sub></p>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/divider-actividad-dark.svg"><img src="./assets/generated/divider-actividad-light.svg" width="100%" alt="06 · ACTIVIDAD"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/telemetry-dark.svg"><img src="./assets/generated/telemetry-light.svg" width="100%" alt="Actividad en GitHub de los últimos 12 meses"></picture>
 

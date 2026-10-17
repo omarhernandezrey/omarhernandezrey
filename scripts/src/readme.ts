@@ -43,6 +43,20 @@ export function renderReadme(p: Profile): string {
     projectRows.push(`<p align="center">\n${pair.join(' ')}\n</p>`);
   }
 
+  const certs = p.education.certificates;
+  const certRows: string[] = [];
+  for (let i = 0; i < certs.length; i += 3) {
+    const row = certs.slice(i, i + 3).map((c, j) =>
+      picture({
+        name: `cert-${i + j + 1}`,
+        alt: `${c.issuer}: ${c.title} (${c.meta})`,
+        width: '32%',
+        href: `./assets/certificates/${c.id}.jpg`,
+      }),
+    );
+    certRows.push(`<p align="center">\n${row.join(' ')}\n</p>`);
+  }
+
   const demos = [
     ...p.timeline.filter((e) => e.href).map((e) => ({ label: e.title, href: e.href! })),
     ...p.projects.filter((pr) => pr.demo).map((pr) => ({ label: pr.name, href: pr.demo! })),
@@ -76,6 +90,13 @@ ${divider('trayectoria')}
 ${picture({ name: 'timeline', alt: 'Trayectoria profesional y académica de 2022 a hoy' })}
 
 <p align="center"><sub>EN PRODUCCIÓN</sub><br>${demos}</p>
+
+${divider('educacion')}
+${picture({ name: 'education', alt: 'Educación: Ingeniería de Software (Politécnico Grancolombiano), Tecnólogo ADSI (SENA) y Bootcamp Full Stack (Talento Tech)' })}
+
+${certRows.join('\n\n')}
+
+<p align="center"><sub>Haz clic en cualquier certificado para verlo completo.</sub></p>
 
 ${divider('actividad')}
 ${picture({ name: 'telemetry', alt: 'Actividad en GitHub de los últimos 12 meses' })}

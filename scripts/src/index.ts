@@ -2,7 +2,9 @@ import { mkdir, readdir, rm, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { renderButton, renderDivider, SECTIONS } from './cards/chrome.ts';
 import type { CardContext, RenderedCard } from './cards/context.ts';
+import { renderCertificate } from './cards/certificate.ts';
 import { renderDossier } from './cards/dossier.ts';
+import { renderEducation } from './cards/education.ts';
 import { renderFooter } from './cards/footer.ts';
 import { renderHeader } from './cards/header.ts';
 import { renderProject } from './cards/project.ts';
@@ -32,6 +34,8 @@ function renderAll(ctx: CardContext): RenderedCard[] {
     { name: 'stack', svg: renderStack(ctx) },
     ...profile.projects.map((p, i) => ({ name: `project-${i + 1}`, svg: renderProject(t, p, i) })),
     { name: 'timeline', svg: renderTimeline(ctx) },
+    { name: 'education', svg: renderEducation(ctx) },
+    ...profile.education.certificates.map((c, i) => ({ name: `cert-${i + 1}`, svg: renderCertificate(t, c, i) })),
     { name: 'telemetry', svg: renderTelemetry(ctx) },
     { name: 'footer', svg: renderFooter(ctx) },
   ];

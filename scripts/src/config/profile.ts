@@ -51,6 +51,30 @@ export interface TimelineEntry {
   readonly href?: string;
 }
 
+export type DegreeStatus = 'progress' | 'done';
+
+export interface Degree {
+  readonly level: string;
+  readonly title: string;
+  readonly institution: string;
+  /** Nombre del PNG en assets/logos. */
+  readonly logo: string;
+  readonly status: DegreeStatus;
+  readonly note: string;
+  /** YYYY-MM, solo para status 'progress'. */
+  readonly start?: string;
+  readonly end?: string;
+}
+
+export interface Certificate {
+  /** Nombre base del archivo en assets/certificates. */
+  readonly id: string;
+  readonly title: string;
+  readonly issuer: string;
+  readonly meta: string;
+  readonly isNew?: boolean;
+}
+
 export const profile = {
   login: 'omarhernandezrey',
   name: { first: 'OMAR', last: 'HERNÁNDEZ REY' },
@@ -260,6 +284,82 @@ export const profile = {
       end: '2026-11',
     },
   ] satisfies readonly TimelineEntry[],
+
+  education: {
+    stats: [
+      { value: '93', label: 'certificados' },
+      { value: '+1.500', label: 'horas de formación' },
+      { value: '6', label: 'instituciones' },
+      { value: '2', label: 'títulos profesionales' },
+    ],
+    degrees: [
+      {
+        level: 'PREGRADO',
+        title: 'Ingeniería de Software',
+        institution: 'Politécnico Grancolombiano',
+        logo: 'politecnico',
+        status: 'progress',
+        note: 'grado nov. 2026',
+        start: '2023-01',
+        end: '2026-11',
+      },
+      {
+        level: 'TECNOLOGÍA',
+        title: 'Análisis y Desarrollo de Sistemas de Información',
+        institution: 'SENA',
+        logo: 'sena',
+        status: 'done',
+        note: 'Titulado · nov. 2022',
+      },
+      {
+        level: 'BOOTCAMP',
+        title: 'Desarrollo Web Full Stack',
+        institution: 'Talento Tech Bogotá · MinTIC',
+        logo: 'talento-tech',
+        status: 'done',
+        note: '159 horas · ago. 2024',
+      },
+    ] satisfies readonly Degree[],
+    certificates: [
+      {
+        id: 'sena-tecnologo-adsi',
+        title: 'Tecnólogo en Análisis y Desarrollo de Sistemas de Información',
+        issuer: 'SENA',
+        meta: 'Título profesional · nov 2022',
+      },
+      {
+        id: 'talento-tech-full-stack',
+        title: 'Bootcamp Desarrollo Web Full Stack',
+        issuer: 'TALENTO TECH · MINTIC',
+        meta: '159 horas · ago 2024',
+      },
+      {
+        id: 'itcertificate-full-stack',
+        title: 'Full Stack Developer Certified Specialist',
+        issuer: 'ITCERTIFICATE',
+        meta: 'Certificación · oct 2024',
+      },
+      {
+        id: 'itcertificate-back-end',
+        title: 'Back End Developer Certified Professional',
+        issuer: 'ITCERTIFICATE',
+        meta: 'Certificación · oct 2024',
+      },
+      {
+        id: 'ibm-git-github',
+        title: 'Fundamentos de Git y GitHub',
+        issuer: 'IBM SKILLSBUILD',
+        meta: '5 horas · oct 2026',
+        isNew: true,
+      },
+      {
+        id: 'platzi-react',
+        title: 'Curso de React.js',
+        issuer: 'PLATZI',
+        meta: '25 horas · nov 2023',
+      },
+    ] satisfies readonly Certificate[],
+  },
 
   availability: 'Inmediata · Remoto LATAM / USA · Híbrido o presencial en Bogotá',
 } as const;
