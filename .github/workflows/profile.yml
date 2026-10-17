@@ -1,0 +1,56 @@
+name: Actualizar perfil
+
+on:
+  schedule:
+    # Diario a las 06:13 UTC (01:13 Bogotá).
+    - cron: "13 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "assets/fonts/**"
+      - "package*.json"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci --no-audit --no-fund
+
+      - run: npm run typecheck
+
+      - name: Generar SVG y README
+        run: npm run build
+        env:
+          # PROFILE_TOKEN (opcional, PAT con read:user) incluye contribuciones privadas.
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit si hay cambios
+        run: |
+          if git diff --quiet -- README.md assets/generated scripts/data; then
+            echo "Sin cambios"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/generated scripts/data
+          git commit -m "chore(perfil): actualizar telemetría $(date -u +%F)"
+          git push
